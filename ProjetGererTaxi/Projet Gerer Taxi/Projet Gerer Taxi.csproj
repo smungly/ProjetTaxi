@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E70D646D-7B98-4266-B8AE-3BADF3F9AA49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projet_Gerer_Taxi</RootNamespace>
+    <AssemblyName>Projet Gerer Taxi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>if_aiga_taxi_bg_134187%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VisualPlus">
+      <HintPath>..\..\..\TAXI\VisualPlus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chauffeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chauffeur.Designer.cs">
+      <DependentUpon>Chauffeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Erreur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erreur.Designer.cs">
+      <DependentUpon>Erreur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Erreur5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erreur5.Designer.cs">
+      <DependentUpon>Erreur5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Erreur6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erreur6.Designer.cs">
+      <DependentUpon>Erreur6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Erreur7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erreur7.Designer.cs">
+      <DependentUpon>Erreur7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ErrSauv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrSauv.Designer.cs">
+      <DependentUpon>ErrSauv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help2.Designer.cs">
+      <DependentUpon>Help2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help3.Designer.cs">
+      <DependentUpon>Help3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help4.Designer.cs">
+      <DependentUpon>Help4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="motdepasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="motdepasse.Designer.cs">
+      <DependentUpon>motdepasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametres Chauffeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametres Chauffeur.Designer.cs">
+      <DependentUpon>Parametres Chauffeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametres Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametres Client.Designer.cs">
+      <DependentUpon>Parametres Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametres Voiture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametres Voiture.Designer.cs">
+      <DependentUpon>Parametres Voiture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametres.Designer.cs">
+      <DependentUpon>Parametres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Success.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Success.Designer.cs">
+      <DependentUpon>Success.cs</DependentUpon>
+    </Compile>
+    <Compile Include="voiture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="voiture.Designer.cs">
+      <DependentUpon>voiture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Res.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Res.Designer.cs">
+      <DependentUpon>Res.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Chauffeur.resx">
+      <DependentUpon>Chauffeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erreur.resx">
+      <DependentUpon>Erreur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erreur5.resx">
+      <DependentUpon>Erreur5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erreur6.resx">
+      <DependentUpon>Erreur6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erreur7.resx">
+      <DependentUpon>Erreur7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrSauv.resx">
+      <DependentUpon>ErrSauv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help2.resx">
+      <DependentUpon>Help2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help3.resx">
+      <DependentUpon>Help3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help4.resx">
+      <DependentUpon>Help4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="motdepasse.resx">
+      <DependentUpon>motdepasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametres Chauffeur.resx">
+      <DependentUpon>Parametres Chauffeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametres Client.resx">
+      <DependentUpon>Parametres Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametres Voiture.resx">
+      <DependentUpon>Parametres Voiture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametres.resx">
+      <DependentUpon>Parametres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Success.resx">
+      <DependentUpon>Success.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voiture.resx">
+      <DependentUpon>voiture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Res.resx">
+      <DependentUpon>Res.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_close_309090%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_down_1303877%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-taxi-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_align_text_line_justify_3005779.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rob-bye-319816-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seb-159444-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_flash_2995002.png" />
+    <None Include="Resources\if_aiga_taxi_134116.png" />
+    <None Include="Resources\if_aiga_taxi_134116%281%29.png" />
+    <None Include="Resources\if_ic_settings_48px_352095%281%29.png" />
+    <None Include="Resources\if_Road_sign_right_2630411.png" />
+    <None Include="Resources\if_Road_sign_right_26304111.png" />
+    <None Include="Resources\if_Road_sign_left_2630409.png" />
+    <None Include="Resources\if_Map_-_Location_Solid_Style_07_2216351.png" />
+    <None Include="Resources\icons8-driver-50%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-wheel-filled-50.png" />
+    <None Include="Resources\if_business_office_seo_finance_work_coffee_pause_management-10_2987141.png" />
+    <None Include="Resources\if_idea_2799205.png" />
+    <None Include="Resources\if_business_office_seo_finance_work_coffee_pause_management-10_2987141%281%29.png" />
+    <None Include="Resources\if_bulb_1511312.png" />
+    <None Include="Resources\if_users-10_984119.png" />
+    <None Include="Resources\if_tesla-roadster-car-space-music-vehicle-transport_2944250.png" />
+    <None Include="Resources\icons8-copyright-26.png" />
+    <None Include="Resources\if_road_1608816.png" />
+    <None Include="Resources\if_road_16088161.png" />
+    <None Include="Resources\if_road_16088162.png" />
+    <None Include="Resources\if_basics-23_296811.png" />
+    <None Include="Resources\if_basics-23_2968111.png" />
+    <None Include="Resources\if_basics-22_296812.png" />
+    <None Include="Resources\if_basics-22_2968121.png" />
+    <None Include="Resources\if_arrowdown_1167964.png" />
+    <None Include="Resources\if_business_office_seo_finance_work_coffee_pause_management-10_29871411.png" />
+    <None Include="Resources\if_Rainbow_2998142.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_bus-vehicle-transport-school_2824446.png" />
+    <None Include="Resources\if_icon-ios7-arrow-forward_211688.png" />
+    <None Include="Resources\if_travel_journey-06_1061154.png" />
+    <None Include="Resources\if_travel_journey-13_1061161.png" />
+    <None Include="Resources\if_basics-22_2968122.png" />
+    <None Include="Resources\if_misc-_tick__1276844.png" />
+    <None Include="Resources\if_misc-_tick__12768441.png" />
+    <None Include="Resources\if_icon-arrow-down-b_211614.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_moon_2995009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_General_Office_32_2530819.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_tesla-roadster-car-space-music-vehicle-transport_29442501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_help_1724771.png" />
+    <None Include="Resources\if_icons_exit2_15645061.png" />
+    <None Include="Resources\if_slice331_2835409 %281%29.png" />
+    <None Include="Resources\if_slice331_2835409.png" />
+    <None Include="Resources\if_slice333_2835407 %281%292.png" />
+    <None Include="Resources\if_slice333_2835407 %281%291.png" />
+    <None Include="Resources\if_slice333_2835407 %281%29.png" />
+    <None Include="Resources\if_slice333_2835407.png" />
+    <None Include="Resources\if_slice324_2835404 %281%291.png" />
+    <None Include="Resources\if_slice324_2835404 %283%29.png" />
+    <None Include="Resources\if_slice324_2835404 %282%29.png" />
+    <None Include="Resources\if_slice324_2835404 %281%29.png" />
+    <None Include="Resources\if_slice324_2835404.png" />
+    <None Include="Resources\if_window-minimize_1954552.png" />
+    <None Include="Resources\if_icons_exit2_1564506.png" />
+    <None Include="Resources\if_close_delete_remove_icon_392517%281%291.png" />
+    <None Include="Resources\if_flash_29950023.png" />
+    <None Include="Resources\if_flash_29950022.png" />
+    <None Include="Resources\if_flash_29950021.png" />
+    <None Include="Resources\if_minus-remove-delete-minimize_2931142.png" />
+    <None Include="Resources\if_close_delete_remove_icon_392517%281%29.png" />
+    <None Include="Resources\if_close_delete_remove_icon_392517.png" />
+    <None Include="Resources\if_log-in_2561252%281%29.png" />
+    <None Include="Resources\if_log-in_2561252.png" />
+    <None Include="Resources\if_063_Undo_1831922.png" />
+    <None Include="Resources\if_063_Undo_1831921.png" />
+    <None Include="Resources\if_misc-_tick__12768442.png" />
+    <None Include="Resources\if_32_111002.png" />
+    <None Include="Resources\if_idea_27992051.png" />
+    <None Include="Resources\if_database_security_103472.png" />
+    <None Include="Resources\if_database_information_103469.png" />
+    <None Include="Resources\if_Streamline-75_185095.png" />
+    <None Include="Resources\if_database_1608662.png" />
+    <None Include="Resources\if_help_172477.png" />
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\if_Streamline-75_1850951.png" />
+    <None Include="Resources\icons8-copyright-261.png" />
+    <None Include="Resources\icons8-driver-50.png" />
+    <None Include="Resources\if_close_309090.png" />
+    <None Include="Resources\if_Streamline-75_1850952.png" />
+    <Content Include="if_aiga_taxi_bg_134187%281%29.ico" />
+    <None Include="Resources\if_database_information_1034691.png" />
+    <None Include="Resources\if_database_security_1034721.png" />
+    <None Include="Resources\if_database_information_1034692.png" />
+    <None Include="Resources\if_database_security_1034722.png" />
+    <None Include="Resources\if_database_information_1034693.png" />
+    <None Include="Resources\if_database_security_1034723.png" />
+    <None Include="Resources\if_database_information_1034694.png" />
+    <None Include="Resources\if_database_security_1034724.png" />
+    <None Include="Resources\if_063_Undo_183192.png" />
+    <None Include="Resources\if_143_Attention_183267.png" />
+    <None Include="Resources\if_Checkmark_21909861.png" />
+    <None Include="Resources\if_Checkmark_21909862.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

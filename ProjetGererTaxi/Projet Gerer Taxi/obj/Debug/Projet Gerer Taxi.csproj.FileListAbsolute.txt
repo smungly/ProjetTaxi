@@ -1,0 +1,142 @@
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\bin\Debug\TAXI.accdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Reservation.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.INFORES.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\bin\Debug\TAXI.accdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.INFORES.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Reservation.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\Projet Gerer Taxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Res.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Info.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Info.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Res.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help2.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\TAXIG.accdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.Designer.cs
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsc
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsd
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xss
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help2.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.CodeAnalysisLog.xml
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.lastcodeanalysissucceeded
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\TAXIG.accdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.Designer.cs
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsc
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsd
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\AppliTAXI.xss
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.CodeAnalysisLog.xml
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.lastcodeanalysissucceeded
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help2.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Info.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Res.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi - Copy - Copy - Copy\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.config
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\TAXIG.accdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\AppliTAXI.Designer.cs
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsc
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\AppliTAXI.xsd
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\AppliTAXI.xss
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.pdb
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.CodeAnalysisLog.xml
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.lastcodeanalysissucceeded
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help2.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Taxi.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Home.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Info.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Properties.Resources.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Res.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet Gerer Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Voiture.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Erreur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Success.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.ErrSauv.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetTaxi\ProjetGererTaxi v2 - Copy (2)\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Connection.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.CodeAnalysisLog.xml
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\Projet Gerer Taxi.exe.lastcodeanalysissucceeded
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Connection.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Erreur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.ErrSauv.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Chauffeur.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Client.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Parametres_Voiture.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Success.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help3.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\bin\Debug\VisualPlus.dll
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Login.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.mdpinco.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.usrnico.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.bothico.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.Help4.resources
+C:\Users\User\Documents\MODULES\VB.NET\Projet\ProjetGererTaxi\Projet Gerer Taxi\obj\Debug\Projet_Gerer_Taxi.AIDE.resources
